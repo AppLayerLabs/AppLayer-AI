@@ -49,8 +49,8 @@ AppLayer AI typically follows a pipeline like:
 
 ---
 
-## Quick Start (Template)
-
-> This README assumes your repo includes an app + API + contracts. If your structure differs, adjust accordingly.
 
 ### Prerequisites
+
+1. NodeJS (latest)
+2. Git (latest)
